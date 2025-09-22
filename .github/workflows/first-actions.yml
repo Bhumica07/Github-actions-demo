@@ -1,4 +1,4 @@
-name: My first Gihub Actions
+name: My First Gihub Actions
 
 on: [push]
 
